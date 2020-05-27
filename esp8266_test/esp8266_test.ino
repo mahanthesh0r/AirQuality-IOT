@@ -2,8 +2,8 @@
 
 #define RX 10
 #define TX 11
-String AP = "monty";       // CHANGE ME
-String PASS = "monty123"; // CHANGE ME
+String AP = "WIFI_NAME";       // CHANGE ME
+String PASS = "WIFI_PASSWORD"; // CHANGE ME
 String API = "D6F5HJGBM5BG3A6S";   // CHANGE ME
 String HOST = "184.106.153.149";
 String PORT = "80";
